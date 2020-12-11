@@ -1,0 +1,14 @@
+@font-face {
+   font-family: Vivaldi;
+   font-style: normal;
+   font-weight: normal;
+   src: url(VIVALDI0.eot);
+}
+
+H1{
+   font-family: "gothic";
+}
+
+H2{
+   font-family: "Vivaldi";
+}
